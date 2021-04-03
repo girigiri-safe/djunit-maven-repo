@@ -1,0 +1,1 @@
+# djunit-maven-repo
